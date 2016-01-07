@@ -311,6 +311,7 @@
 				5FF8BB201C3E148A007ED9FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
